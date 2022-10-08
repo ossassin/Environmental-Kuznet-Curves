@@ -1,4 +1,4 @@
-# EconometricsProject
+# Econometrics Project
 In this course project, along with my group members, we looked into the relationship of CO2 emissions and GDP per Capita of economies in Asia. 
 The phenomenon under investigation was called Environmental Kuznet Curve, which hypothesizes enivornment degradation increases as GDP per capita increases.
 Once it reaches a turning point, the enivornmental degradation begins to fall as GDP per capita increases. You can read up more about it here:
